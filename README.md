@@ -11,10 +11,10 @@ https://drive.google.com/file/d/1Y88tgqpQ1Pjko_7rntcPowOJs_QNOrJ-/view
 If use conda, use the following commands to install the above packages:\
 •	conda install matplotlib\
 •	conda install numpy \
-•	conda install -c anaconda scikit-learn\
+•	conda install -c anaconda scikit-learn
 
 
 If use pip, use use the following commands to install the above packages:\
 •	pip install matplotlib \
 •	pip install numpy \
-•	pip install sklearn\
+•	pip install sklearn
